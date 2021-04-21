@@ -9,7 +9,7 @@ Before contributing to the organization, one should be aware of these and keep t
 For keeping the issues in a systematic way, we use labels which describe the type of issue, the  ` programming language ` used in the issue and so on.
 Some of the most used labels are:-
 * ` help-wanted ` which indicates the issue requires help by anyone willing to contribute.
-* ` first-timers-only ` which are meant to welcome newcomers in the community. They need to be well-formatted using the *First-timers_Issue_Template*.
+* ` first-timers-only ` which are meant to welcome newcomers in the community. They need to be well-formatted using the *First-timers_Issue_Template*. :tada: :smiley:
 * ` fto-candidate ` issues are issues which are meant to be solved by **first timers** but they aren't well-formatted. These issues can be converted into ` first-timers-only ` issues using the friendly template.
 * ` bug ` which tells that the issue is regarding one of our programs which faces problems when a certain task is executed. :bug:
 * ` enhancement ` explains that the issue is to improve upon one of our existing features.
