@@ -13,9 +13,9 @@ Some of the most used labels are:-
 * ` fto-candidate ` issues are issues which are meant to be solved by **first timers** but they aren't well-formatted. These issues can be converted into ` first-timers-only ` issues using the friendly template.
 * ` bug ` which tells that the issue is regarding one of our programs which faces problems when a certain task is executed. :bug:
 * ` enhancement ` explains that the issue is to improve upon one of our existing features. :bulb:
-* ` planning ` - These issues can be used as a place for discussion on a long term or a big project.
+* ` planning ` - These issues can be used as a place for discussion on a long term or a big project. :computer:
 * ` break-me-up ` says that this certain issue could be and should be broken into smaller self-contained projects for cleaner code separation, more discrete tests, and, easier and iterative collaboration.
-* ` more-detail-please ` tells the issue lacks proper description and perhaps needs code links or the location of the problem.
+* ` more-detail-please ` tells the issue lacks proper description and perhaps needs code links or the location of the problem. :link:
 * Labels like ` HTML ` , ` CSS ` , ` Ruby ` and ` JavaScript ` tell the **programming language** of the issue.
 * ` design ` - This says that the issue requires more design work and discussion (i.e. mockups and sketches).
 * ` documentation ` - This tells that a certain feature lacks proper documentation or needs more documents. :orange_book:
